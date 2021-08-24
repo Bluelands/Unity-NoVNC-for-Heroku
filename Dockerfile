@@ -11,6 +11,8 @@ RUN set -ex; \
         metacity \
         nautilus \
         gedit \
+	ffmpeg \
+	vlc \
         xterm \
         sudo \
 	    firefox \
