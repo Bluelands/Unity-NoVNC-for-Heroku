@@ -22,6 +22,7 @@ RUN set -ex; \
         gnome-panel \
         gnome-terminal \
         xvfb \
+	ffmpeg \
         supervisor \
         net-tools \
         curl \
